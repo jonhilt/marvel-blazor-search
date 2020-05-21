@@ -11,4 +11,4 @@ Plug this key into `Index.razor` then launch the app and try searching for spide
 dotnet run
 ```
 
-![](https://5ec62ca7b9c4730007aceefe--tax-collector-radio-46438.netlify.app/img/MarvelSearchResults.gif)
+![](https://jonhilton.net/img/MarvelSearchResults.gif)
